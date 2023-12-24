@@ -1,0 +1,335 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nilansh Dey Ghosh
+    - name: Nickname
+      value: Neil
+    - name: Residence
+      value: California, USA
+    - name: Languages
+      value: English, Spanish, Bengali
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Class of 2024
+      institution: Archbishop Mitty High School, San Jose, CA, USA
+      year: 2020-2024
+      description:
+        - <b>Acdemic GPA:</b> 4.5 (Weighted Cumulative Academic GPA)
+        - <b>AP/Honors Courses:</b> AP Statistics, Linear Algebra and Multivariable Calculus Honors, AP English Language and Composition, AP Economics A/B (Micro and Macro), AP Physics C (Electricity & Magnetism), AP Calculus BC, AP World History, AP English Literature and Composition, AP Computer Science A; AP Physics C (Mechanics); AP Calculus AB, AP US History, American Literature Honors, Chemistry Honors, Biology Honors, Pre-Calculus Honors.
+        - <b>ACT:</b> 35 (English - 35, Science - 35, Math - 35, Reading - 33)
+    - title: Class of 2020
+      institution: Stratford Middle School, San Jose, CA, USA
+      year: 2017-2020
+      description:
+        - <b>GPA:</b> 4.0 (Unweighted)
+        - <b>HSPT (High-School Placement Test, 2020):</b> National Percentile - 99 
+
+- title: Independent Ventures & Leadership
+  type: time_table
+  contents:
+    - title: Founder / CEO / Lead Developer / Sales Executive
+      institution: Forward Front
+      year: 2020 - Present
+      description:
+        - <b>Website:</b> <a href="https://www.forwardfront.org"> Forward Front </a>; 
+          <a href="https://github.com/ndg24/forward-front-website"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Startup focused on improving the digital presence of small businesses. Initially created to help struggling businesses during Covid times.
+        - Now expanded to support 125+ clients in 11 states/ 4 countries. 
+          Working with clients on their website development, digital marketing, online branding & SEO (Search Engine Optimization). Lead and teach employees in web dev and sales calls.
+
+
+    - title: Founder / Lead Developer / Head of Marketing
+      institution: Attentra
+      year: 2021 - Present
+      description:
+        - <a href="https://github.com/ndg24/attentra"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Attentra is a Unity & C#-based computer game to improve attention span of special-needs youth.
+        - Lead a national team of 5 programmers to develop the video game. 
+        - Collaborate with industry experts, county officials, 
+          33 national and International special-needs organizations with 1500+ students.
+
+    - title: Founder / Blogger
+      institution: Sports-Tech/Business Blog on Medium.com
+      year: 2021 - Present
+      description:
+        - <b>Website:</b> <a href="https://www.medium.com/@Nilansh"> Medium.com/@Nilansh </a>
+        - Authoring a sports blog where I write on topics regarding the business, analytics
+          and behind the scenes aspect of many top sports leagues.
+        - Grew viewership to 15,000+ monthly with 200,000+ total views.
+
+    - title: President / Dev-Team Founder / Game Development Lead
+      institution: High School Computer Science Club
+      year: 2020 - Present
+      description:
+        - Leading over 100+ members of the club. Organize workshops, guest speakers & meetings.
+        - Teach 14 students in game development.
+        - Oversee 16 peers in coding school platform app & dance ticket app.
+
+    - title: Vice Chair / Co-Leader of the Creek Stewardship Group
+      institution: Valley Water Youth Commissioner, Santa Clara Valley, CA
+      year: 2020 - Present
+      description:
+        - <b>Website:</b> 
+          <a href="https://www.valleywater.org/learning-center/valley-water-youth-commission"> Valley Water Youth Commission </a>
+        - Selected as one of the 12 Valley Water Youth Commissioners in the Bay Area.
+        - Secretary of the Youth Citizen Science Network. 
+        - Produced 3 films to engage youth.
+
+    - title: Vice Chair
+      institution: Youth Advisory Council, District 6, San Jose, CA
+      year: 2020 - Present
+      description:
+        - Started as Website Lead.
+        - Proposed vaping tax policy to mayor.
+
+    - title: Secretary
+      institution: High School Math Club 
+      year: 2020 - 2023
+
+    - title: High-School Class Representative (Grade 9); School Vice President (Grade 8)
+      institution: Student Government
+      year: 2019 - 2021
+
+- title: Internships
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Prof. Alexander Adams, Georgia Institute of Technology, Atlanta.
+      year: 2023 - Present
+      description:
+        - Low-cost/Equitable Mobile System for Fetal Health Monitoring.
+    - title: Teaching Assistant
+      institution: Ms. Alexis Jefferson, Archbishop Mitty High School, San Jose.
+      year: 2023 - Present
+      description:
+        - AP Computer Science Class.
+    - title: Software Engineering Intern
+      institution: Relaymile
+      year: 2021 - 2023
+      description:
+        - Relaymile is a logistics network company helping the supply chain move – 
+          helps truckers stay close to home.
+        - Designed backend/frontend components & resolved bugs using Javascript library React. 
+          Worked with databases & APIs.
+    - title: Campaign Intern, Media Design & Technology Team
+      institution: US Congress Candidate Campaign (Rishi Kumar Campaign)
+      year: 2020
+      description:
+        - Calling senior citizens to help with grocery shopping, picking up medicine, etc. during Covid-19 pandemic.
+        - Canvassing - dropping campaign flyers at houses throughout the Bay Area; Phone banking for Rishi Kumar - talked with voters across the Bay Area.
+        - Designed campaign posters/flyers with Media Arts team.
+        - Participated in Hackathon to promote youth empowerment - coded a project called ‘Helping Government focus on Less Employed Areas in the United States during times of Covid’.
+
+- title: Research & Projects
+  type: time_table
+  contents:
+    - title: An AI Fencing Recommender using Cloud Technology and IoT
+      year: 2021-2022
+      description: 
+        - <a href="https://github.com/ndg24/AI-Fencing-Recommender"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - <b>Weblink to Paper:</b> 
+          <a href="https://img1.wsimg.com/blobby/go/9191e826-b8e2-4be4-9c2c-09e8c7fc1375/downloads/Issue%20_3.pdf?ver=1685207117282">
+          An AI Fencing Recommender using Cloud Technology and IoT
+          </a>
+        - Research with NYU Prof. Jean-Claude Franchitti. 
+        - Research project on developing Intelligent Autonomous Networked (IAN) solutions using 
+          cloud-based machine and deep learning. Created a recommender system capable of analyzing 
+          opponent moves through deep learning and providing feedback to a fencer.
+        - Utilized Microsoft Azure, Docker & Python libraries.
+
+    - title: Low-cost/Equitable Mobile System for Fetal Health Monitoring
+      year: 2023 - Present
+      description:
+        - <a href="https://github.com/ndg24/fetalMonitoringSystemsAndroid"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Research project with Prof. Alexander Adams, Georgia Insttitute of Technology.
+        - Developing a low-cost/equitable mobile system for fetal health monitoring to reduce stress.
+
+    - title: Mental Health Chatbot (Natural Language Processing)
+      year: 2021
+      description:
+        - <a href="https://github.com/ndg24/Therapy-Verse"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Research Internship with Princeton University Student Sriram Hathwar. 
+        - Deployed chatbot technologies to answer queries for patients, like the ELIZA chatbot therapist. 
+          Implemented the chatbot model for mental health using NLP & RNN methods.
+
+    - title: Finding the Limits of AI to Solve Elementary and Middle School Mathematics Using Neural Network Models
+      year: 2020
+      description:
+        - <a href="https://github.com/ndg24/math-genius-ai"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Independent research project.
+        - Developed and experimented with AI models as described in a 2019 paper from 
+          Google’s DeepMind on ‘Analyzing Mathematical Reasoning Abilities of Neural Models.’ 
+        - Experimented with Transformer, LSTM, BERT and RNN models.
+
+    - title: Covid4All in Def Hacks 2020 Hackathon
+      year: 2020
+      description:
+        - <a href="https://github.com/ndg24/Covid4All"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - Designed and coded a website during the Def Hacks 2020 Hackathon.
+        - Fun Covid-related games to simplify people's understanding of Covid-19.
+
+    - title: Personal Programming Projects (Available in <a href="https://github.com/ndg24"><i class="fab fa-github gh-icon"></i> GitHub </a>)
+      year: 2018 - 2020
+      description:
+        - <b>DrawBot:</b> Making and programming a robot to move and draw using Arduino sketch.
+        - <b>AI Flappy Bird:</b> Coded an AI using NEAT-Python to play a Flappy Bird game.
+        - <b>Atari Breakin:</b> Programmed a game similar to Atari Breakout with Lua and Love2D. 
+        - <b>Aim Trainer:</b> Using Pygame, made an aim trainer with different modes and a clean UI.
+        - <b>Snake:</b> Programmed the classic Snake game using Pygame and Python.
+
+- title: Honors and Awards
+  type: nested_list
+  contents:
+    - title: Academics & Scholarships
+      items: 
+        - <b style="color:Tomato;"> 2024 Coca-Cola Scholar Semifinalist:</b> 
+             1 of 1,514 selected from 103,800 applicants (1.45%)
+        - <b style="color:Tomato;">Principal's Honor Roll</b> (Grades 9-11)
+        - <b style="color:Tomato;">Mitty Undergrad Award – AP English Literature</b>
+          <a href="/assets/pdf/Mitty-English-Award.pdf"> (Certificate)</a>
+        
+    - title: Computer Science & Robotics
+      items:
+        - <b style="color:Tomato;">USACO Gold Division:</b> 1 of 600 nationwide.
+        - <b style="color:Tomato;">FRC Robotics Awards:</b> Autonomous, Innovation in Control, Region Finalist.
+    - title: Math & Science Competitions
+      items:
+        - <b style="color:Tomato;">AIME Qualifier</b> in AMC-10 (Grade 10)
+        - <b style="color:Tomato;">STEM Recognition 2020 (Synopsys Science Fair)</b> by Mayor of the City of San Jose. (Grade 9)
+        - <b style="color:Tomato;">California Math League – Perfect Score</b> (Grade 9)
+        - <b style="color:Tomato;">Certificate of Achievement in AMC-10</b> (Grade 7)
+        - <b style="color:Tomato;">Math Kangaroo National Rank - 3 (Grade 7) & National Rank - 19 (Grade 6) <b>
+        - <b style="color:Tomato;">AMC-8:</b> Honor Roll; Certificate of Outstanding Achievement.
+        - <b style="color:Tomato;">JH-CTY (Johns Hopkins Center for Talented Youth):</b> Invited to 
+             Johns Hopkins SET (Study of Exceptional Talent) program. SAT-Math - 760/800 (Grand Homors in Grade 7)
+        - <b style="color:Tomato;">MOEMS (Math Olympiad) & California Math League (Grade 8, 7) 1st place in School. </b>
+    - title: Business & Leadership
+      items:
+        - <b style="color:Tomato;">Wharton Sports Business Academy Award, 2022:</b> 3rd place Culminating Project among 28 teams and 90 students 
+          at Wharton Global Youth Program.
+        - <b style="color:Tomato;">KLA Innovation Challenge 2021:</b> Placed 5th amongst 20+ teams nationwide (Business Entrepreneurship)
+        - Accepted to the LaunchX Entrepreneurship Summer Program, 2022.
+    - title: Athletics
+      items:
+        - <b style="color:Tomato;">High School Soccer:</b> JV MVP/Sportsmanship award.
+        - <b style="color:Tomato;">Soccer Tournament Awards:</b> 
+          (With Liverpool FC Bay Area Academy / SURF Academy) 
+          <br> Silver Medal in MVLA Cup, Fall 2022; 
+          <br> Silver Medal in Santa Cruz Breaker’s Cup, Spring 2022; 
+          <br> Gold Medal in MVLA Fall Cup in 2018 and 2019; Gold Medal in 2018 AJAX tournament; 
+          <br> Division winner in NorCal Premier League, Fall 2018.
+    - title: Community Service
+      items:
+        - <b style="color:Tomato;">2021 Junior League of San Jose Volunteer Award.</b> 
+          <a href="/assets/pdf/Nilansh-Award-JuniorLeagueSJ.pdf"> (Certificate)</a>
+          Nominated by WVCS.
+        - <b style="color:Tomato;">St. Francis of Assisi Christian Service Award (2020-2021):</b>
+          <a href="/assets/pdf/Nilansh-Gr9-MittyStFrancisAward.pdf"> (Certificate)</a>
+          For over 100 hours of service in one school year.
+    - title: Honor Societies
+      items:
+        - <b style="color:Tomato;">National Honor Society Member
+        - <b style="color:Tomato;">California Scholarship Federation Member
+
+
+- title: Extracurricular Courses
+  type: nested_list
+  contents:
+    - title: Computer Science
+      items: 
+        - <b style="color:Tomato;">Data Visualization Methodology and Tools (CIS 64G)</b> 
+          <p> De Anza College, Cupertino, CA. <br>
+          Ongoing - Dual enrollment with high school (09/2023 - 12/2023). <br>
+          Introduction to the strategies and technologies used in business intelligence reporting 
+          and dashboards for making data-driven decisions.</p>
+        - <b style="color:Tomato;">Introduction to Game Development (CS50g), Harvard University, EdX.</b>
+          <b><a href="/assets/pdf/Harvardx_CS50g_Certificate.pdf"> (Certificate).</a></b>
+          <p> Explores principles of 2D and 3D graphics, animation, sound, and collision detection using 
+          frameworks like Unity and LÖVE 2D, as well as languages like Lua and C#.</p>
+        - <b style="color:Tomato;">Introduction to Computer Science (CS50x), Harvard University, EdX.</b>
+          <b><a href="/assets/pdf/HarvardX-CS50-Certificate.pdf"> (Certificate).</a></b>
+          <p>Topics include abstraction, algorithms, data structures, encapsulation, resource management, 
+          security, software engineering, and web development. Problem sets inspired by real-world domains 
+          of biology, cryptography, finance, forensics, and gaming.</p>
+        - <b style="color:Tomato;">The Modern React Bootcamp (Hooks, Context, NextJS, Router), Udemy.</b>
+          <b><a href="/assets/pdf/React-Certificate.pdf"> (Certificate).</a></b> 
+          <p>Course on React, the most popular JavaScript library, from the very basics up to advanced topics.</p>
+        - <b style="color:Tomato;">R Programming A-Z™ - R For Data Science, Udemy.</b>
+          <b><a href="/assets/pdf/R-Programming-for-DataScience-Certificate.pdf"> (Certificate).</a></b> 
+          <p>Course on Programming In R And R Studio. 
+          Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2.</p>
+        - <b style="color:Tomato;"> C++ Programming - From Beginner to Beyond, Udemy.</b> 
+          <p>Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills.<p>
+        - <b style="color:Tomato;">Learning Java, LinkedIn Learning.</b>
+    - title: Business
+      items:
+        - <b style="color:Tomato;">Wharton Sports Business Academy (Wharton Global Youth Program).</b>
+          <a href="/assets/pdf/Wharton-Global-Youth-Program-Certificate.pdf"> (Certificate)</a>
+          <p>Program in Sports Analytics and Business Initiative. <br>
+          <u>Project:</u> Proposed a College Level NIL (Name Image and Likeness) Deal including 
+          Khan Academy and JR Smith; includes pay, reasoning, and logistics of the deal.</p>
+        - <b style="color:Tomato;">Business Foundations Specialization, Wharton Online, Coursera.</b> 
+          <p>Completed <b>‘Introduction to Marketing’</b> 
+          <b><a href="/assets/pdf/WhartonMarketingCertificate.pdf"> (Certificate)</a></b> <br>
+          and <b>‘Introduction to Financial Accounting’</b>.</p>
+
+    - title: Other Courses
+      items:
+        - <b style="color:Tomato;">Advanced Biotechnology. UC Berkeley Academic Talent Development Program (UCB ATDP).</b>
+          <b><a href="/assets/pdf/UCB-ATDP-CumulativeRec.pdf"> (Certificate).</a></b>
+          <p>Explore the essential principles and techniques of molecular biology and its applications.</p>
+        - <b style="color:Tomato;">Crafting the Essay, Johns Hopkins CTY.</b> 
+          <p>College-level writing course using personal essay to explore narration, description, and reflection.</p>
+        - <b>Short Courses:</b> 
+          <p>3D Game Design with Unreal Engine 4; <br>
+          Artificial Intelligence and Machine Learning with TensorFlow and Python; <br>
+          Introduction to Web Design; <br>
+          Advanced Debate. <br>
+          </p>
+
+- title: Publications
+  type: list
+  contents:
+    - <b style="color:Tomato;">"AI Fencing Recommender using Cloud Technology and IoT"</b>,  Nilansh Dey Ghosh, Oliver Zheng, Tony Xiao, Scholarly Review, 
+      <a href="https://img1.wsimg.com/blobby/go/9191e826-b8e2-4be4-9c2c-09e8c7fc1375/downloads/Issue%20_3.pdf?ver=1685207117282">
+                   Issue 3, Fall 2022, Page 6.
+      </a>
+    - <b style="color:Tomato;">Sports Busingess Blog:</b> <a href="https://www.medium.com/@Nilansh"> Medium.com/@Nilansh </a>
+    - <b style="color:Tomato;">“Anger”, America Library of Poetry</b>, Poem selection, June 2020.
+    - <b style="color:Tomato;">High School Newspaper:</b> News section writer.
+
+- title: Programming / Coding
+  type: list
+  contents:
+    - GitHub Link - <a href="https://github.com/ndg24"><i class="fab fa-github gh-icon"></i> Nilansh's GitHub </a>.
+    - C++, Java, R
+    - Python, Lua, JavaScript
+    - HTML, CSS, SQL. React
+    - <b>IDEs:</b> VS Code, PyCharm, IntelliJ
+
+- title: Athletics & Performing Arts
+  type: list
+  contents:
+    - <b style="color:Tomato;">High School Soccer with Junior-Varsity & Varsity.</b> Captain, Junior Varsity Soccer.
+    - <b style="color:Tomato;">Competitive Soccer</b> with LFC (Liverpool Football Club) Bay Area Academy (Now SURF Academy).
+      Competed in club soccer for 12 years.
+    - <b style="color:Tomato;">Guitar (Electric and Bass):</b> GPlayed lead guitarist for a youth band & also played bass guitar when needed.
+    - <b style="color:Tomato;">Theater/Acting:</b> Performed in Twelfth Night in AMHS Fall 2020 Shakespeare Festival.
+
+- title: Volunteer Experience
+  type: list
+  contents:
+    - <b style="color:Tomato;">Event Lead & Food Pantry Volunteer, West Valley Community Services (WVCS):</b> Chefs of Compassion (Annual Fundraising) Media Team;
+      Seeds of Compassion Event Lead in 2020 and 2021 – helping others to make cards and masks; 
+      Food Pantry, Tech help, Back to School Events, Holiday Gift of Hope Event, etc.
+    - <b style="color:Tomato;">Buddy & Coach, AYSO VIP Volunteer Program/E-Soccer:</b> Assisted children with special needs to play soccer.
+    - <b style="color:Tomato;">Principal Tutor, Peru Project:</b> Taught English remotely to low-income Spanish speaking kids in villages of 
+      Peru, Ecuador, and Chile. Taught & developed curriculum for 200+ kids. Raised $4K to buy internet routers for them. 
+    - <b style="color:Tomato;">Math Mentoring:</b> Mentored Stratford Middle School Students on Algebra, Adv. Algebra, and Geometry.
+    - <b style="color:Tomato;">Cornerstone:</b> Youth campus ministry group.
+
+
+

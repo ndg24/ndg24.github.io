@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<!-- about.html -->
+
+<div class="post">
+  
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
+  </header>
+
+  <!-- For various kinds of background rendeting check : https://codepen.io/ibaslogic/pen/MWXryya?editors=1100 -->
+
+  <div class="container-fluid">
+    <div class="justify-content-sm-center view overlay zoom">
+        <div class="my_img">
+          <img src="/assets/img/bg-brain-1.jpg" class="img-fluid" alt="Home Page Image" />
+        </div>
+        <div class="content">
+          <h2>Welcome to Nilansh's Web</h2>
+        </div>
+    </div>
+  </div>
+
+  <article>
+     
+    <div class="clearfix mt-3">
+      {{ content }}
+    </div>
+
+    <!-- Social -->
+    {%- if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+
+        <div class="contact-note">
+          {{ site.contact_note }}
+        </div>
+
+      </div>
+    {%- endif %}
+
+    <!-- News -->
+    {% if page.news and site.announcements.enabled -%}
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      {%- include news.html limit=true %}
+    {%- endif %}
+
+    <!-- Latest posts -->
+    {% if page.latest_posts -%}
+      <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest Posts</a></h2>
+      {%- include latest_posts.html %}
+    {%- endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers -%}
+      <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
+      {%- include selected_papers.html %}
+    {%- endif %}
+
+  </article>
+
+</div>
