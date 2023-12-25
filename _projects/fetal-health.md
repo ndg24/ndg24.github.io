@@ -2,7 +2,7 @@
 layout: page
 title: Fetal Health Monitoring System
 description: Research project with Georgia-Tech Prof. Alexander Adams on developing a low-cost/equitable mobile system for fetal health monitoring to reduce stress.
-img: assets/img/ultrasound-4536367_640
+img: assets/img/ultrasound-4536367_640.jpg
 redirect: https://github.com/ndg24/fetalMonitoringSystemsAndroid
 importance: 3
 category: Computer Science

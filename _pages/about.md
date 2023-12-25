@@ -16,10 +16,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-
-I am ...
-
-You are invited to explore my Projects, Blogs, Publications, and R&eacute;sum&eacute; from the menu at the top.
-
-You are also invited to follow the links below to my GitHub repositories and Medium posts. 
-

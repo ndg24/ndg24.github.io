@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mental Health Chatbot
+title: Therapy Verse - Mental Health Chatbot
 description: Research Internship with Princeton University Student Sriram Hathwar. Deployed chatbot technologies to answer queries for patients, like the ELIZA chatbot therapist. Implemented the chatbot model for mental health using NLP & RNN methods.
-img: assets/img/chat-7767694_640
+img: assets/img/chat-7767694_640.jpg
 redirect: https://github.com/ndg24/Therapy-Verse
 importance: 4
 category: Computer Science

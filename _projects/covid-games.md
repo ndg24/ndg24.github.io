@@ -2,7 +2,7 @@
 layout: page
 title: Covid4All
 description: Designed and coded a website during the Def Hacks 2020 Hackathon. Fun Covid-related games to simplify people's understanding of Covid-19.
-img: assets/img/virus-5041738_640
+img: assets/img/virus-5041738_640.jpg
 redirect: https://github.com/ndg24/Covid4All
 importance: 7
 category: Computer Science
