@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Math Genius AI
+title: Finding the Limits of AI to Solve Elementary and Middle School Mathematics Using Neural Network Models
 description: Independent research project. Developed and experimented with AI models as described in a 2019 paper from Google’s DeepMind on ‘Analyzing Mathematical Reasoning Abilities of Neural Models.’ Experimented with Transformer, LSTM, BERT and RNN models.
-img: assets/img/maths-7708861_640
+img: assets/img/maths-7708861_640.jpg
 redirect: https://github.com/ndg24/math-genius-ai
 importance: 6
 category: Computer Science
