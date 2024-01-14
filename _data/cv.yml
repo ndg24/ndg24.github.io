@@ -141,6 +141,7 @@
       year: 2020
       description:
         - <a href="https://github.com/ndg24/math-genius-ai"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
+        - <a href="/assets/pdf/Independent-Research-Project.pdf"> (Paper)</a>
         - Independent research project.
         - Developed and experimented with AI models as described in a 2019 paper from 
           Google’s DeepMind on ‘Analyzing Mathematical Reasoning Abilities of Neural Models.’ 
@@ -223,7 +224,7 @@
     - title: Computer Science
       items: 
         - <b style="color:Tomato;">Data Visualization Methodology and Tools (CIS 64G). </b>
-          <b>Grade A+</b>
+          <b>Grade A+</b> <a href="/assets/pdf/De-Anza-College-Transcript.pdf"> (Transcript).</a></b>
           <p> De Anza College, Cupertino, CA. <br>
           Dual enrollment with high school (09/2023 - 12/2023). <br>
           Introduction to the strategies and technologies used in business intelligence reporting 
