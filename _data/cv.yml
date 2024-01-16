@@ -141,7 +141,7 @@
       year: 2020
       description:
         - <a href="https://github.com/ndg24/math-genius-ai"><i class="fab fa-github gh-icon"></i> GitHub Link</a>
-        - <a href="/assets/pdf/Independent-Research-Project.pdf"> (Paper)</a>
+        - <a href="/assets/pdf/Independent-Research-Project.pdf"> Paper Link</a>
         - Independent research project.
         - Developed and experimented with AI models as described in a 2019 paper from 
           Google’s DeepMind on ‘Analyzing Mathematical Reasoning Abilities of Neural Models.’ 
